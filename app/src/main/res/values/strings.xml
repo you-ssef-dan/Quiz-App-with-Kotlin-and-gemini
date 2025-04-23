@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quiz_Danoun</string>
+    <string name="welcome">Welcome to the AI Quiz App powered by Gemini</string>
+</resources>
